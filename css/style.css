@@ -1,0 +1,160 @@
+html body {
+  background-color: #faf3e6;
+  margin-top: 100px;
+  font-family: 'Poiret One', cursive;  
+}
+
+.name h1{
+  font-family: 'Cinzel', serif;
+  font-size: 200px;
+  text-align: center;
+}
+
+.name span {
+  font-size: 45px;
+  float: none;
+  font-family: 'Poiret One', cursive;
+}
+
+.heading {
+  font-size: 45px;
+  float: none;
+  font-family: 'Poiret One', cursive;
+}
+
+hr.horizontalBreak {
+  background: url(http://www.csszengarden.com/218/img-lg-horiz-border.png) repeat-x 0 0;
+  height: 60px;
+  border: 0;
+  padding-bottom: 10px;
+}
+
+#topContacts img {
+  height: 150px;
+  border-radius: 50%;
+}
+
+.name ul li{
+  background-color: transparent;
+  border: none;
+  display: inline;
+}
+
+.name .dark-text {
+  font-family: 'Rubik', sans-serif;
+  font-size: 14px;
+}
+
+.name .light-text {
+  font-size: 14px;
+}
+
+.name .skills-list {
+  font-family: 'Rubik', sans-serif;
+  font-size: 22px;
+  text-align: left;
+  list-style-type: none;
+}
+
+.name .skills {
+  padding-top: 50px;
+}
+
+.work-heading h2 {
+  font-size: 45px;
+  float: none;
+  font-family: 'Poiret One', cursive;
+  padding-top: 50px;  
+}
+
+.work-list {
+  font-family: 'Rubik', sans-serif;
+  font-size: 22px;
+  text-align: left;
+  list-style-type: none;
+}
+
+.workHorizontalBreak {
+  background: url(http://www.csszengarden.com/218/img-lg-horiz-border.png) repeat-x 0 0; 
+  height: 60px;
+  border: 0;
+  margin-top: 235px;
+}
+
+.projects-heading h2 {
+  font-size: 45px;
+  float: none;
+  font-family: 'Poiret One', cursive;
+  padding-top: 50px;  
+}
+
+.project-list {
+  font-family: 'Rubik', sans-serif;
+  font-size: 22px;
+  text-align: left;
+  list-style-type: none;
+}
+
+.projectImage {
+  width: 400px;
+}
+
+.education-heading h2 {
+  font-size: 45px;
+  float: none;
+  font-family: 'Poiret One', cursive;
+  padding-top: 50px;  
+}
+
+.classes-heading h2 {
+  font-size: 45px;
+  float: none;
+  font-family: 'Poiret One', cursive;
+  padding-top: 50px;  
+}
+
+.map-heading h2 {
+  font-size: 45px;
+  float: none;
+  font-family: 'Poiret One', cursive;
+  padding-top: 50px;  
+}
+
+.connect-heading h2 {
+  font-size: 45px;
+  float: none;
+  font-family: 'Poiret One', cursive;
+  padding-top: 50px;  
+}
+
+.classes-list {
+  font-family: 'Rubik', sans-serif;
+  font-size: 22px;
+  text-align: left;
+  list-style-type: none;
+}
+
+.school-list {
+  font-family: 'Rubik', sans-serif;
+  font-size: 22px;
+  text-align: left;
+  list-style-type: none;
+}
+
+.educationHorizontalBreak {
+  background: url(http://www.csszengarden.com/218/img-lg-horiz-border.png) repeat-x 0 0; 
+  height: 60px;
+  border: 0;
+  margin-top: 235px;
+}
+
+
+
+
+
+
+
+
+
+
+
