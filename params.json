@@ -1,6 +1,6 @@
 {
   "name": "Resume",
   "tagline": "My resume rendered entirely using Javascript",
-  "body": "### My Resume \r\n\r\nRendered entirely using JavaScript. ",
+  "body": "### My Resume \r\nRendered entirely using JavaScript.\r\n\r\n \r\n![](https://drive.google.com/open?id=0B3bijpUXwdHtd3BVU0pIZVM0bVE)\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
